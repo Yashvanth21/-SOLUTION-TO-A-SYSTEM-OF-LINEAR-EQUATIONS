@@ -14,6 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+```
 #Program to find the solution for the given linear equations.
 #Developed by: Yashvanth K
 #RegisterNumber: 23011613
@@ -22,6 +23,7 @@ A= np.array([[1,-3],[3,1]])
 B= np.array([0,10])
 result= np.linalg.solve(A,B)
 print(result)
+```
 ## Output:
 ![Screenshot 2024-01-02 164641](https://github.com/Yashvanth21/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144979957/9dfb3d18-b765-4941-bd62-b644dc7edb66)
 
